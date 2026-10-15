@@ -93,3 +93,6 @@ Track sales amount and quantity patterns to support data-driven sales decisions.
 
 ## 5. Goal of the Dashboard
 To provide a comprehensive view of Amazon.in sales and order performance by transforming raw transaction data into actionable insights across products, customers, geography, fulfilment and order status.
+
+
+## End of project. 
